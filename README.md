@@ -8,5 +8,15 @@ Written in 2010 by Elliot Cameron
 
 Public Domain.
 
+  [Nim]: http://en.wikipedia.org/wiki/Nim
 
-[Nim]: http://en.wikipedia.org/wiki/Nim
+Building
+--------
+
+To build, run
+
+    make
+
+Then run the game like this
+
+    ./nim
